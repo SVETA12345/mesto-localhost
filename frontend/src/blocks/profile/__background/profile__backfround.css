@@ -1,0 +1,12 @@
+.profile__background{
+    background-image: url(../../../images/avatar.png);
+        border-radius: 50%;
+        width: 126px;
+        height: 126px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        display:flex;
+        border: none;
+        padding: 0;
+    }

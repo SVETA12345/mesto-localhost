@@ -1,0 +1,10 @@
+.place__subtitle{
+    position: absolute;
+    margin:0;
+    bottom:20px;
+    right: 26px;
+    font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+}

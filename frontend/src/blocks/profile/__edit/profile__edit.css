@@ -1,0 +1,26 @@
+.profile__edit{
+    width: 24px;
+    height:24px;
+    background-color: black;
+    background-image: url(../../../images/karandash.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid #FFFFFF;
+    margin-top: 37px;
+    margin-left: 18px;
+    cursor: pointer;
+}
+.profile__edit:hover {
+    opacity: 70%;
+  }
+
+  @media (max-width: 767px){
+    .profile__edit{
+        position: absolute;
+        width: 18px;
+        height: 18px;
+        margin-top: 156px;
+        margin-left: 200px;
+    }
+}
+  

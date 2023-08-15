@@ -1,0 +1,5 @@
+.popup__card{
+    flex-direction: column;
+    position: relative;
+    cursor: default;
+}

@@ -1,0 +1,17 @@
+.header__open{
+    display: none;
+}
+.header__open:hover{
+    opacity: 0.6;
+}
+
+@media (max-width: 767px){
+    .header__open{
+        display: flex;
+        flex-direction: column;
+        margin-right: 30px;
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+    }
+}

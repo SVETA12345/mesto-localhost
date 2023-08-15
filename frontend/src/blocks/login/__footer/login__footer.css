@@ -1,0 +1,15 @@
+.login__footer {
+  display: block;
+  margin-top: 15px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+  text-align: center;
+  background-color: transparent;
+  color: #ffffff;
+  cursor: pointer;
+  border: 0;
+  text-decoration: none;
+}

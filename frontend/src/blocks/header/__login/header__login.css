@@ -1,0 +1,26 @@
+.header__login {
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.header__login:hover{
+    opacity: 0.6;
+}
+
+@media (max-width: 767px) {
+  .header__login {
+    margin-right: 30px;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 18px;
+    margin-bottom: 40px;
+  }
+}

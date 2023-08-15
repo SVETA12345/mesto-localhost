@@ -1,0 +1,8 @@
+.profile__image{
+    object-fit: cover;
+    object-position: center;
+    width:26px;
+    height:26px;
+    padding-top: 47px;
+    padding-left: 47px;
+}

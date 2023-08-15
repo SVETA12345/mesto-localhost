@@ -1,0 +1,12 @@
+.form__item-error_field_name{
+    display: block;
+    width: 358px;
+    margin: 0 auto;
+    margin-top: 5px;
+    min-height: 12px;
+}
+@media (max-width: 767px){
+    .form__item-error_field_name{
+        width: 238px;
+    }
+}

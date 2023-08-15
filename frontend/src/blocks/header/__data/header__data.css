@@ -1,0 +1,9 @@
+.header__data{
+    display: flex;
+}
+
+@media (max-width: 767px){
+    .header__data{
+        display: none;
+    }
+}

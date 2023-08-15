@@ -1,0 +1,9 @@
+.place__footer{
+    color:black;
+    width: 241px;
+    margin: 0 auto;
+    margin-top: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

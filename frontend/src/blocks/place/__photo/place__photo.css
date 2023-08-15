@@ -1,0 +1,7 @@
+.place__photo{
+    height: 282px;
+    width: 100%;
+    cursor: pointer;
+    object-fit: cover;
+    object-position: center;
+}

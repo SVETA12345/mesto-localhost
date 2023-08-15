@@ -1,0 +1,14 @@
+.popup__error_visible{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FF0000;
+}
+
+@media (max-width: 767px){
+    .form__input-error_active{
+        width: 238px;
+    }
+}

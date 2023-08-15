@@ -1,0 +1,32 @@
+.login__save {
+  display: flex;
+  width: 358px;
+  height: 50px;
+  margin: 0 auto;
+  background-color: white;
+  color: black;
+  border: 0;
+  border-radius: 2px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 216px;
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+}
+.login__save:hover{
+    opacity: 0.85;
+}
+
+
+@media (max-width: 767px) {
+  .login__save {
+    margin-top: 173px;
+    width: 260px;
+    height: 46px;
+    font-size: 16px;
+    line-height: 19px;
+  }
+}
